@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+.div-show{display:block}
+.div-hide{display:none}
+
+.popup{border-radius:12px;width:450px; background:#fff;box-shadow:#999 1px 1px 5px}
+.popup .title{overflow:hidden;zoom:1;box-shadow:0 2px 4px #d1d1d1; height:60px; overflow:hidden;zoom:1;border-radius:12px 12px 0 0;}
+.popup .title h4{font-size:20px;color:#666; line-height:60px; font-weight:400;padding-left:20px;float:left}
+.popup .title a.close{background:url(../image/close.png); width:16px; height:16px;float:right; display:inline;margin:23px 17px 0 0;cursor:pointer}
+
+.account{padding:24px; text-align:left}
+.account .user{border:solid 1px #ccc; height:48px; width:400px;border-radius:10px; position:relative; overflow:hidden;zoom:1;clear:both}
+.account .user .icon{border-right:solid 1px #ccc; width:50px; height:50px; float:left}
+.account .user span{position:absolute;top:11px;left:65px;color:#bebebe; font-size:18px; font-weight:100}
+.account .user:hover span{color:#adadad}
+.account .user input{border:0; width:329px;font-size:18px;color:#333;padding-left:5px;z-index:3;background:none; position:relative;margin-top:2px;height:44px;line-height:44px;}
+.account .user em{position:absolute;top:0;right:10px;color:#fff; font-size:12px; font-weight:100; background:#d16d62; line-height:24px;border-radius:5px;padding:0 5px;margin-top:13px;z-index:99}
+.account .password{border:solid 1px #ccc; height:48px; width:400px;border-radius:10px; position:relative; overflow:hidden;zoom:1;clear:both;margin-top:10px}
+.account .password .icon{border-right:solid 1px #ccc; width:50px; height:50px; float:left}
+.account .password span{position:absolute;top:11px;left:65px;color:#bebebe; font-size:18px; font-weight:100}
+.account .password:hover span{color:#adadad}
+.account .password input{border:0; width:329px;font-size:18px;color:#333;padding-left:5px;margin-top:2px;height:44px;line-height:44px;background:none; position:relative}
+.account .password em{position:absolute;top:0;right:10px;color:#fff; font-size:12px; font-weight:100; background:#d16d62; line-height:24px;border-radius:5px;padding:0 5px;margin-top:13px}
+
+.account .captcha{overflow:hidden;zoom:1;margin-top:10px;}
+.account .captcha img{cursor: pointer}
+.account .captcha-l{border:solid 1px #ccc; height:48px; width:285px;border-radius:10px; position:relative; overflow:hidden;zoom:1;clear:both; float:left}
+.account .captcha-l .icon{border-right:solid 1px #ccc; width:50px; height:50px; float:left}
+.account .captcha-l span{position:absolute;top:11px;left:65px;color:#bebebe; font-size:18px; font-weight:100}
+.account .captcha-l:hover span{color:#adadad}
+.account .captcha-l input{ border:0; width:204px;font-size:18px;color:#333;padding-left:5px;z-index:3;margin-top:2px;height:44px;line-height:44px;background:none; position:relative}
+.account .captcha-l em{position:absolute;top:0;right:10px;color:#fff; font-size:12px; font-weight:100; background:#d16d62; line-height:24px;border-radius:5px;padding:0 5px;margin-top:13px}
+.account .captcha-l a{position:absolute;top:0;right:0}
+.account .captcha-r{ float:right;border-radius:10px;border:solid 1px #ccc; width:100px; height:48px; overflow:hidden;}
+.account .captcha-r a{ font-size:14px; display:block; width:100px; line-height:48px; text-align:center}
+.account .captcha-r a i{background:#999;border-radius:5px;padding:2px 4px;color:#fff}
+
+.account .botton a{ width:400px;  display:inline-block; background:#eb0028;border-radius:10px;color:#fff; font-size:18px; text-align:center; line-height:50px}
+.account .botton a:hover{ opacity:.8}
+
+.account .remember{ overflow:hidden;zoom:1;margin:20px auto}
+.account .remember span{flaot:left;overflow:hidden;zoom:1;}
+.account .remember span a.choose{ background:url(../image/checkbox.png) no-repeat -4px -4px;width:14px; height:14px; float:left; display:inline;margin:3px 4px 0 2px}
+.account .remember span a.checked{ background:url(../image/checkbox.png) no-repeat -4px -25px;}
+.account .remember span em{ float:left;}
+.account .remember p{float:right; color:#ccc}
+.account .remember p a{color:#eb0028; opacity:.8; display:inline-block;margin:0 3px}
+.account .remember p a:hover{ opacity:1}
+
+.account .mail{font-size:16px; text-align:center;margin-bottom:20px}
+
+.account .icon i.iName{display:inline-block; background:url(../image/registered.png) -10px -13px; width:22px; height:22px;margin:13px 0 0 14px}
+.account .icon i.iCode{display:inline-block; background:url(../image/registered.png) -10px -74px; width:22px; height:22px;margin:13px 0 0 14px}
+.account .icon i.iMail{display:inline-block; background:url(../image/registered.png) -10px -132px; width:22px; height:22px;margin:13px 0 0 14px}
+.account .icon i.iKey{display:inline-block; background:url(../image/registered.png) -10px -193px; width:22px; height:22px;margin:13px 0 0 14px}
+
+.account .prompt{background:url(../image/gou2.png);width:120px; height:120px; margin:10px auto 20px}
+
+.popup .nickname .user span{left:15px;}
+
+.account .other-line{box-shadow: 0 2px 4px #d1d1d1;overflow: hidden;zoom: 1;height:2px;margin-top:20px;}
+.account .other{height:10px;margin:15px 5px;}
+.account .other ul{padding:5px;float:left}
+.account .other ul li{width: 20px;  height: 17px;  margin-left: 15px;  float: left;  cursor: pointer;  background-image: url(../image/otherlogin2.png); background-image: -webkit-image-set(url(../image/otherlogin2.png) 1x,url(../image/otherlogin2.png) 2x); background-size: 81px 17px;  background-position: 1px 0;  background-repeat: no-repeat;  transition: all 1s ease;}
+.account .other ul li.qq{background-position: -62px 0;}
+.account .other ul li.qq:hover{background-image: -webkit-image-set(url(../img/otherlogin.png) 1x,url(../img/otherlogin.png) 2x); background-size: 81px 17px;}
+.account .other ul li.text{background-image: none;  margin-left: 0;  width: auto;  color: #bbb;  font-size: 100%;  cursor: default;  color: #999;}
+
+.account-info .title h5{font-size:20px;color:#666; line-height:60px; font-weight:400;padding-left:20px; text-align:center}
+.account-info .succeed{text-align:center}
+.account-info .succeed img{margin:20px auto}
+.account-info .succeed p{font-size:22px; font-weight:400;color:#333}
+.account-info .succeed span{color:#999; display:block;padding:10px 0}
+.account-info .succeed .return{border-top:solid 1px #e1e1e1;margin:30px 20px 0 20px;padding:20px 0;}
+.account-info .succeed .return a{color:#ff0033}
+.account-info .succeed .return a:hover{ opacity:.6}
+
+
+.popup .title h5{font-size:20px;color:#666; line-height:60px; font-weight:400;padding-left:20px; text-align:center}
+.popup .succeed{text-align:center}
+.popup .succeed img{margin:20px auto}
+.popup .succeed p{font-size:22px; font-weight:400;color:#333}
+.popup .succeed span{color:#999; display:block;padding:10px 0}
+.popup .succeed .return{border-top:solid 1px #e1e1e1;margin:30px 20px 0 20px;padding:20px 0;}
+.popup .succeed .return a{color:#ff0033}
+.popup .succeed .return a:hover{ opacity:.6}
