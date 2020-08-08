@@ -1,4 +1,4 @@
-@charset "utf-8";
+
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,
 
@@ -43,17 +43,17 @@ a:hover{text-decoration:none;color:#ff4444;transition-duration:.2s}
 .dingbu .w1050 .left a:nth-child(1){ padding:0 10px 0 0}
 .dingbu .w1050 .right a{margin:0 10px;}
 .dingbu .w1050 i{background:#6d6d6d;width:1px;height:10px;display:inline-block}
-.dingbu .w1050 .gwc{background:url(../image/icon-che.png) no-repeat 10px 11px;padding:0 10px 
+.dingbu .w1050 .gwc{background:url(https://www.paomfz.com/static/image/icon-che.png) no-repeat 10px 11px;padding:0 10px 
 
 0 38px;}
-.dingbu .w1050 .gwc:hover,.dingbu .w1050 .on{background:#fff url(../image/icon-che1.png) 
+.dingbu .w1050 .gwc:hover,.dingbu .w1050 .on{background:#fff url(https://www.paomfz.com/static/image/icon-che1.png) 
 
 no-repeat 10px 11px;color:#cc0033;transition-duration:0s}
 
-.dingbu .w1050 .main-name{background: url(../image/w-dsj.png) no-repeat 75px 14px; padding-
+.dingbu .w1050 .main-name{background: url(https://www.paomfz.com/static/image/w-dsj.png) no-repeat 75px 14px; padding-
 
 right:28px;}
-.dingbu .w1050 .main-name:hover,.dingbu .main-name.on{background:#fff url(../image/r-.jpg
+.dingbu .w1050 .main-name:hover,.dingbu .main-name.on{background:#fff url(https://www.paomfz.com/static/image/r-.jpg
 
 dsj.png) no-repeat 85px 14px;padding-left:10px;color:#cc0033;transition-duration:0s }
 
@@ -117,7 +117,7 @@ auto;border-radius:10px; overflow:hidden;zoom:1; position:relative}
 .g50 .right ul{margin:80px 0 0 20px}
 .g50 .right li{line-height:32px; }
 .g50 .right li i{display:inline-block; width:100px;}
-.g50 .newpro{background:url(../image/newpro.png); width:144px; height:92px; 
+.g50 .newpro{background:url(https://www.paomfz.com/static/image/newpro.png); width:144px; height:92px; 
 
 position:absolute;top:0;left:0}
 
@@ -144,7 +144,7 @@ overflow:hidden}
 .proList span{font-size:18px;color:#696969}
 .proList span.on{color:#ff0033}
 
-.footer{text-align:center;font-size:12px;line-height:30px;min-
+.footer{text-align:center;font-size:12px;line-height:27px;min-
 
 width:700px;height:110px;background-color:#181c23;color:#6c7890;font-family:\5B8B
 
@@ -163,7 +163,7 @@ line-height:24px;}
 .header-main{ background:#333; border-top:solid 2px #ff0033; }
 .header-main .container{margin:0 auto; height:70px;position:relative }
 .header-main .container .logo{ float:left; display:inline;padding-top:8px}
-.header-main .container .logo a{background:url(../image/logo1.png) no-repeat;width: 
+.header-main .container .logo a{background:url(https://www.paomfz.com/static/image/logo1.png) no-repeat;width: 
 
 133px;height: 42px;display: block;margin: 4px 0 0 25px;}
 .header-main .container .logo a h1{display:none}
@@ -198,26 +198,26 @@ index:200;padding-top:9px;}
 .dingbu  .shortcut .list {padding-top:10px}
 .dingbu  .shortcut .list li{height:42px; line-height:42px; border-top:solid 1px #e9e9e8}
 .dingbu  .shortcut .list li a{display:block;padding-left:58px;color:#666}
-.dingbu  .shortcut .list li.icon01 a{background:url(../image/shortcuticon.png) no-repeat 
+.dingbu  .shortcut .list li.icon01 a{background:url(https://www.paomfz.com/static/image/shortcuticon.png) no-repeat 
 
 23px -3px;}
-.dingbu  .shortcut .list li.icon02 a{background:url(../image/shortcuticon.png) no-repeat 
+.dingbu  .shortcut .list li.icon02 a{background:url(https://www.paomfz.com/static/image/shortcuticon.png) no-repeat 
 
 23px -45px;}
-.dingbu  .shortcut .list li.icon03 a{background:url(../image/shortcuticon.png) no-repeat 
+.dingbu  .shortcut .list li.icon03 a{background:url(https://www.paomfz.com/static/image/shortcuticon.png) no-repeat 
 
 23px -88px;}
-.dingbu  .shortcut .list li.icon04 a{background:url(../image/shortcuticon.png) no-repeat 
+.dingbu  .shortcut .list li.icon04 a{background:url(https://www.paomfz.com/static/image/shortcuticon.png) no-repeat 
 
 23px -132px;}
-.dingbu  .shortcut .list li.icon05 a{background:url(../image/shortcuticon.png) no-repeat 
+.dingbu  .shortcut .list li.icon05 a{background:url(https://www.paomfz.com/static/image/shortcuticon.png) no-repeat 
 
 23px -175px;}
-.dingbu  .shortcut .list li.icon06 a{background:url(../image/shortcuticon.png) no-repeat 
+.dingbu  .shortcut .list li.icon06 a{background:url(https://www.paomfz.com/static/image/shortcuticon.png) no-repeat 
 
 23px -215px;}
 .dingbu  .shortcut .list li:hover{background:#fafafa}
-.dingbu  .shortcut-icon{background:url(../image/sanjiao.png);display:inline-block; 
+.dingbu  .shortcut-icon{background:url(https://www.paomfz.com/static/image/sanjiao.png);display:inline-block; 
 
 width:18px; height:10px; position: absolute;top:-10px; left:73px}
 
@@ -227,7 +227,7 @@ width:18px; height:10px; position: absolute;top:-10px; left:73px}
 .cart-list{position:relative;padding-top:9px; z-index:50;box-shadow: 0 2px 10px rgba
 
 (0,0,0,0.15);}
-.cart-list .sj-icon{ background:url(../image/sanjiao.png) no-repeat center top; width:318px; 
+.cart-list .sj-icon{ background:url(https://www.paomfz.com/static/image/sanjiao.png) no-repeat center top; width:318px; 
 
 height:10px; line-height:10px; position:absolute;top:0;}
 .cart-list ul{ background:#fff; }
@@ -246,7 +246,7 @@ height:60px;padding:20px}
 .cart-kong{text-align:center;padding-bottom:20px; background:#fff; box-shadow: 0 2px 10px 
 
 rgba(0,0,0,0.15);}
-.cart-kong span{background:url(../image/cart-icon.png); width:68px; height:63px; 
+.cart-kong span{background:url(https://www.paomfz.com/static/image/cart-icon.png); width:68px; height:63px; 
 
 display:block;margin:20px auto}
 .cart-kong em{font-size:14px;}
@@ -271,26 +271,26 @@ text-align:center; line-height:40px; font-size:14px ;color:#fff; border:solid 1p
 .service{ width:1050px;}
 }
 
-.fuwu-banner{ background:url(../image/fwbr.jpg); height:525px;}
+.fuwu-banner{ background:url(https://www.paomfz.com/static/image/fwbr.jpg); height:525px;}
 .serveTitle{width:990px;margin:60px auto}
 .serveTitle ul{overflow:hidden;}
 .serveTitle li{text-align:center; width:160px; float:left;margin:0 85px; cursor:pointer}
-.serveTitle span.sh{ background:url(../image/sh.png); width:160px; height:160px; 
+.serveTitle span.sh{ background:url(https://www.paomfz.com/static/image/sh.png); width:160px; height:160px; 
 
 display:block;margin-bottom:15px}
-.serveTitle .on span.sh{ background:url(../image/sh_on.png); width:160px; height:160px; 
+.serveTitle .on span.sh{ background:url(https://www.paomfz.com/static/image/sh_on.png); width:160px; height:160px; 
 
 display:block;margin-bottom:15px}
-.serveTitle span.xz{ background:url(../image/xz.png); width:160px; height:160px; 
+.serveTitle span.xz{ background:url(https://www.paomfz.com/static/image/xz.png); width:160px; height:160px; 
 
 display:block;margin-bottom:15px}
-.serveTitle .on span.xz{ background:url(../image/xz_on.png); width:160px; height:160px; 
+.serveTitle .on span.xz{ background:url(https://www.paomfz.com/static/image/xz_on.png); width:160px; height:160px; 
 
 display:block;margin-bottom:15px}
-.serveTitle span.buy{ background:url(../image/buy.png); width:160px; height:160px; 
+.serveTitle span.buy{ background:url(https://www.paomfz.com/static/image/buy.png); width:160px; height:160px; 
 
 display:block;margin-bottom:15px}
-.serveTitle .on span.buy{ background:url(../image/buy_on.png); width:160px; height:160px; 
+.serveTitle .on span.buy{ background:url(https://www.paomfz.com/static/image/buy_on.png); width:160px; height:160px; 
 
 display:block;margin-bottom:15px}
 .serveTitle i{font-size:18px; font-weight:400;}
@@ -319,7 +319,7 @@ auto;padding:50px;}
 .xiazai .title li a{display:block; font-size:18px}
 .xiazai .title li a:hover{background:#ebebeb;color:#ff0033}
 .xiazai .title li.on a{color:#ff0033}
-.xiazai .title li:first-child{ background:url(../image/shu.png) no-repeat right;}
+.xiazai .title li:first-child{ background:url(https://www.paomfz.com/static/image/shu.png) no-repeat right;}
 
 .xzlist{margin-top:2px;}
 .xzlist ul{background:#f2f2f2;padding-bottom:40px;display:none;}
@@ -327,7 +327,7 @@ auto;padding:50px;}
 
 40px}
 .xzlist ul li div{border-bottom:solid 1px #dcdcdc;height:90px;}
-.xzlist ul li em{float:left;background:url(../image/xzicon.png); width:52px; 
+.xzlist ul li em{float:left;background:url(https://www.paomfz.com/static/image/xzicon.png); width:52px; 
 
 height:52px;margin-right:30px;}
 .xzlist ul li h3{font-size:16px; font-weight:400; line-height:30px;}
@@ -341,13 +341,13 @@ height:28px;color:#fff;text-align:center}
 .xzlist ul.on{display:block;}
 
 .purchase{width:1220px;margin:0 auto;}
-.purchase .ly{background:#ff0033 url(../image/lybanner.jpg) no-repeat; 
+.purchase .ly{background:#ff0033 url(https://www.paomfz.com/static/image/lybanner.jpg) no-repeat; 
 
 width:1220px;height:258px;margin-top:50px; position:relative;}
-.purchase .tb{background:#ff4400 url(../image/tbbanner.jpg) no-repeat; width:1220px; 
+.purchase .tb{background:#ff4400 url(https://www.paomfz.com/static/image/tbbanner.jpg) no-repeat; width:1220px; 
 
 height:258px;margin-top:50px; position:relative;}
-.purchase .jd{background:#c61621 url(../image/jdbanner.jpg) no-repeat; width:1220px; 
+.purchase .jd{background:#c61621 url(https://www.paomfz.com/static/image/jdbanner.jpg) no-repeat; width:1220px; 
 
 height:258px;margin-top:50px; position:relative;}
 .purchase span{display:inline-block; height:258px; width:258px; background:#fff; 
